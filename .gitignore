@@ -1,0 +1,14 @@
+# Ignorar arquivos de log
+*.log
+
+# Ignorar pasta node_modules
+node_modules/
+
+# Ignorar arquivos de configuração local
+.env
+# .gitignore
+islmenv/
+__pycache__/
+*.pyc
+*.pyo
+.streamlit/
