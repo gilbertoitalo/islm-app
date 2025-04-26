@@ -25,9 +25,7 @@ O modelo IS-LM é fundamental na macroeconomia keynesiana para analisar a intera
 ├── app.py ← código principal do Streamlit
 ├── requirements.txt ← dependências do projeto
 ├── README.md ← esta descrição e instruções gerais
-└── docs/ ← guia do usuário (professor e estudante)
-├── manual_professor.pdf
-└── screenshots/
+└── docs/ ← screenshots
 ```
 
 ### 🚀 Como executar
@@ -58,7 +56,7 @@ O modelo IS-LM é fundamental na macroeconomia keynesiana para analisar a intera
     ```
 
 
-## 🛠️ Sobre a Implementação
+## 🛠️ Sobre a Implementação:
 
 O código foi estruturado de forma modular para facilitar a compreensão e manutenção. As principais funções:
 
@@ -69,9 +67,15 @@ O código foi estruturado de forma modular para facilitar a compreensão e manut
 
  
  
- **✨ Planos Futuros (pós-entrega)**
+ **✨ Planos Futuros (pós-entrega):**
 - [ ] Análise de sensibilidade dos parâmetros (heatmaps)
 - [ ] Integraão com dados econômicos reais (dowload de dados BACEN ou FRED)
 - [ ] Implementaão do modelo Mundell-Fleming (economia aberta)
 - [ ] Simulação dinâmica por períodos
 
+
+**Screenshots:**
+
+![Img do App1](docs/ss1.png)
+
+![Img do App2](docs/ss2.png)
